@@ -30,4 +30,8 @@ To use the chatbot, follow these steps:
 5. Interact with the chatbot by typing your questions and receiving responses.
    
 ## Example:
+Data samples:
+![Screenshot 2024-05-31 at 15 01 24](https://github.com/ancuong1610/FAQ_Chatbot/assets/66347972/b6f649e4-5bce-4d4a-8cef-abab33cc03ff)
+
+Conversation samples:
 ![Screenshot 2024-05-31 at 14 59 18](https://github.com/ancuong1610/FAQ_Chatbot/assets/66347972/befe3a6b-202f-460e-af00-d28f6d1e4cde)
