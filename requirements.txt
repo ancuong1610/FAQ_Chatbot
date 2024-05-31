@@ -1,0 +1,9 @@
+click==8.1.7
+joblib==1.4.2
+nltk==3.8.1
+numpy==1.26.4
+regex==2024.5.15
+scikit-learn==1.5.0
+scipy==1.13.1
+threadpoolctl==3.5.0
+tqdm==4.66.4
